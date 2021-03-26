@@ -10,6 +10,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    env:
+      CMC_API_KEY: ${{ secrets.CMC_API_KEY }}
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-go@v2

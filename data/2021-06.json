@@ -1294,3 +1294,29 @@
 {"status":{"timestamp":"2021-06-22T14:23:30.735Z","error_code":0,"error_message":null,"elapsed":18,"credit_count":1,"notice":null},"data":{"active_cryptocurrencies":5393,"total_cryptocurrencies":10561,"active_market_pairs":43174,"active_exchanges":380,"total_exchanges":1399,"eth_dominance":17.186387913022,"btc_dominance":46.9646675457,"defi_volume_24h":9529525602.034946,"defi_volume_24h_reported":9529525602.034946,"defi_market_cap":52376503682.25773,"defi_24h_percentage_change":14.056794280456,"stablecoin_volume_24h":101927757314.02554,"stablecoin_volume_24h_reported":101927757314.02554,"stablecoin_market_cap":108223219423.42328,"stablecoin_24h_percentage_change":9.148296141392,"derivatives_volume_24h":235982281866.78415,"derivatives_volume_24h_reported":235982281866.78415,"derivatives_24h_percentage_change":2.131397961865,"quote":{"USD":{"total_market_cap":1175732891352.774,"total_volume_24h":125594646765.82,"total_volume_24h_reported":125594646765.82,"altcoin_volume_24h":75582128986.13676,"altcoin_volume_24h_reported":75582128986.13676,"altcoin_market_cap":623553847703.5005,"last_updated":"2021-06-22T14:24:11.999Z"}},"last_updated":"2021-06-22T14:24:11.999Z"}}
 {"status":{"timestamp":"2021-06-22T14:36:05.745Z","error_code":0,"error_message":null,"elapsed":9,"credit_count":1,"notice":null},"data":{"active_cryptocurrencies":5393,"total_cryptocurrencies":10561,"active_market_pairs":43173,"active_exchanges":380,"total_exchanges":1399,"eth_dominance":17.209902192645,"btc_dominance":46.827452230121,"defi_volume_24h":9742352612.000898,"defi_volume_24h_reported":9742352612.000898,"defi_market_cap":53303488424.13398,"defi_24h_percentage_change":16.550578394543,"stablecoin_volume_24h":103718868467.98984,"stablecoin_volume_24h_reported":103718868467.98984,"stablecoin_market_cap":108229526442.41501,"stablecoin_24h_percentage_change":11.057592482849,"derivatives_volume_24h":239383586339.5643,"derivatives_volume_24h_reported":239383586339.5643,"derivatives_24h_percentage_change":3.65727072301,"quote":{"USD":{"total_market_cap":1191307785959.3772,"total_volume_24h":127916140116.4,"total_volume_24h_reported":127916140116.4,"altcoin_volume_24h":77059647108.257,"altcoin_volume_24h_reported":77059647108.257,"altcoin_market_cap":633448701575.5392,"last_updated":"2021-06-22T14:39:11.999Z"}},"last_updated":"2021-06-22T14:39:11.999Z"}}
 {"status":{"timestamp":"2021-06-22T14:44:46.647Z","error_code":0,"error_message":null,"elapsed":12,"credit_count":1,"notice":null},"data":{"active_cryptocurrencies":5393,"total_cryptocurrencies":10561,"active_market_pairs":43173,"active_exchanges":380,"total_exchanges":1399,"eth_dominance":17.209902192645,"btc_dominance":46.827452230121,"defi_volume_24h":9742352612.000898,"defi_volume_24h_reported":9742352612.000898,"defi_market_cap":53303488424.13398,"defi_24h_percentage_change":16.550578394543,"stablecoin_volume_24h":103718868467.98984,"stablecoin_volume_24h_reported":103718868467.98984,"stablecoin_market_cap":108229526442.41501,"stablecoin_24h_percentage_change":11.057592482849,"derivatives_volume_24h":239383586339.5643,"derivatives_volume_24h_reported":239383586339.5643,"derivatives_24h_percentage_change":3.65727072301,"quote":{"USD":{"total_market_cap":1191307785959.3772,"total_volume_24h":127916140116.4,"total_volume_24h_reported":127916140116.4,"altcoin_volume_24h":77059647108.257,"altcoin_volume_24h_reported":77059647108.257,"altcoin_market_cap":633448701575.5392,"last_updated":"2021-06-22T14:39:11.999Z"}},"last_updated":"2021-06-22T14:39:11.999Z"}}
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+<head><title>500 Internal Server Error</title></head>
+<body>
+<center><h1>500 Internal Server Error</h1></center>
+Sorry for the inconvenience.<br />
+Please report this message and include the following information to us.<br />
+Thank you very much!</p>
+<table>
+<tr>
+<td>URL:</td>
+<td>http://pro-api.coinmarketcap.com/v1/global-metrics/quotes/latest</td>
+</tr>
+<tr>
+<td>Server:</td>
+<td>coinmarketcap-pro-apis-proxy-7dc9f48dd8-qkdzh</td>
+</tr>
+<tr>
+<td>Date:</td>
+<td>2021/06/22 14:57:23</td>
+</tr>
+</table>
+<hr />Powered by Tengine<hr><center>tengine</center>
+</body>
+</html>
+

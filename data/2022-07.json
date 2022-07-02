@@ -22,3 +22,229 @@
 {"status":{"timestamp":"2022-07-01T21:03:35.091Z","error_code":0,"error_message":null,"elapsed":22,"credit_count":1,"notice":null},"data":{"active_cryptocurrencies":9978,"total_cryptocurrencies":20085,"active_market_pairs":59803,"active_exchanges":514,"total_exchanges":1685,"eth_dominance":14.858249468212,"btc_dominance":42.386572110812,"eth_dominance_yesterday":14.4939682,"btc_dominance_yesterday":42.19671631,"eth_dominance_24h_percentage_change":0.364281268212,"btc_dominance_24h_percentage_change":0.189855800812,"defi_volume_24h":6255336892.58974,"defi_volume_24h_reported":16913958476.673847,"defi_market_cap":41574944918.93954,"defi_24h_percentage_change":-4.195646723194,"stablecoin_volume_24h":63214730928.268265,"stablecoin_volume_24h_reported":207962150650.5546,"stablecoin_market_cap":151471497482.8425,"stablecoin_24h_percentage_change":13.508664928353,"derivatives_volume_24h":186414568988.83893,"derivatives_volume_24h_reported":186414568988.83893,"derivatives_24h_percentage_change":16.538051561974,"quote":{"USD":{"total_market_cap":875300137526.1608,"total_volume_24h":71202910877.71,"total_volume_24h_reported":239993927961.82,"altcoin_volume_24h":39262842411.83343,"altcoin_volume_24h_reported":103416627237.72682,"altcoin_market_cap":504290413547.596,"defi_volume_24h":6255336892.58974,"defi_volume_24h_reported":16913958476.673847,"defi_24h_percentage_change":-4.195646723194,"defi_market_cap":41574944918.93954,"stablecoin_volume_24h":63214730928.268265,"stablecoin_volume_24h_reported":207962150650.5546,"stablecoin_24h_percentage_change":13.508664928353,"stablecoin_market_cap":151471497482.8425,"derivatives_volume_24h":186414568988.83893,"derivatives_volume_24h_reported":186414568988.83893,"derivatives_24h_percentage_change":16.538051561974,"last_updated":"2022-07-01T21:02:59.999Z","total_market_cap_yesterday":848411069302.263,"total_volume_24h_yesterday":61676307474.68,"total_market_cap_yesterday_percentage_change":3.1693443422433916,"total_volume_24h_yesterday_percentage_change":15.446131250547012}},"last_updated":"2022-07-01T21:02:59.999Z"}}
 {"status":{"timestamp":"2022-07-01T22:03:29.031Z","error_code":0,"error_message":null,"elapsed":25,"credit_count":1,"notice":null},"data":{"active_cryptocurrencies":9980,"total_cryptocurrencies":20088,"active_market_pairs":59811,"active_exchanges":514,"total_exchanges":1685,"eth_dominance":14.851687980989,"btc_dominance":42.411043456706,"eth_dominance_yesterday":14.5769557,"btc_dominance_yesterday":42.17910424,"eth_dominance_24h_percentage_change":0.274732280989,"btc_dominance_24h_percentage_change":0.231939216706,"defi_volume_24h":6251502341.079154,"defi_volume_24h_reported":16857147599.10616,"defi_market_cap":41383277170.23538,"defi_24h_percentage_change":-5.365364792324,"stablecoin_volume_24h":63021933959.50064,"stablecoin_volume_24h_reported":206364782809.52454,"stablecoin_market_cap":151573607878.74448,"stablecoin_24h_percentage_change":12.026782470473,"derivatives_volume_24h":183983732408.46417,"derivatives_volume_24h_reported":183983732408.46417,"derivatives_24h_percentage_change":13.282268627739,"quote":{"USD":{"total_market_cap":872921347002.2192,"total_volume_24h":70828239969.29,"total_volume_24h_reported":237897751935.45,"altcoin_volume_24h":39177390075.15984,"altcoin_volume_24h_reported":102682106769.61835,"altcoin_market_cap":502706295182.2423,"defi_volume_24h":6251502341.079154,"defi_volume_24h_reported":16857147599.10616,"defi_24h_percentage_change":-5.365364792324,"defi_market_cap":41383277170.23538,"stablecoin_volume_24h":63021933959.50064,"stablecoin_volume_24h_reported":206364782809.52454,"stablecoin_24h_percentage_change":12.026782470473,"stablecoin_market_cap":151573607878.74448,"derivatives_volume_24h":183983732408.46417,"derivatives_volume_24h_reported":183983732408.46417,"derivatives_24h_percentage_change":13.282268627739,"last_updated":"2022-07-01T22:01:59.999Z","total_market_cap_yesterday":852253034172.1447,"total_volume_24h_yesterday":62465423024.19,"total_market_cap_yesterday_percentage_change":2.4251380753547096,"total_volume_24h_yesterday_percentage_change":13.3879137292666}},"last_updated":"2022-07-01T22:01:59.999Z"}}
 {"status":{"timestamp":"2022-07-01T23:03:35.681Z","error_code":0,"error_message":null,"elapsed":20,"credit_count":1,"notice":null},"data":{"active_cryptocurrencies":9980,"total_cryptocurrencies":20088,"active_market_pairs":59815,"active_exchanges":514,"total_exchanges":1685,"eth_dominance":14.852763094371,"btc_dominance":42.360616459174,"eth_dominance_yesterday":14.54767776,"btc_dominance_yesterday":42.14957185,"eth_dominance_24h_percentage_change":0.305085334371,"btc_dominance_24h_percentage_change":0.211044609174,"defi_volume_24h":6225729123.85393,"defi_volume_24h_reported":16816469337.427042,"defi_market_cap":41230482982.635796,"defi_24h_percentage_change":-6.351075566649,"stablecoin_volume_24h":62761575896.32796,"stablecoin_volume_24h_reported":204206893909.82968,"stablecoin_market_cap":151697675774.01108,"stablecoin_24h_percentage_change":11.942453768919,"derivatives_volume_24h":182268872144.92682,"derivatives_volume_24h_reported":182268872144.92682,"derivatives_24h_percentage_change":11.859067639755,"quote":{"USD":{"total_market_cap":870413180943.2347,"total_volume_24h":70276327839.67,"total_volume_24h_reported":235132097487.77,"altcoin_volume_24h":38900358198.18159,"altcoin_volume_24h_reported":101577859966.1185,"altcoin_market_cap":501700791753.7766,"defi_volume_24h":6225729123.85393,"defi_volume_24h_reported":16816469337.427042,"defi_24h_percentage_change":-6.351075566649,"defi_market_cap":41230482982.635796,"stablecoin_volume_24h":62761575896.32796,"stablecoin_volume_24h_reported":204206893909.82968,"stablecoin_24h_percentage_change":11.942453768919,"stablecoin_market_cap":151697675774.01108,"derivatives_volume_24h":182268872144.92682,"derivatives_volume_24h_reported":182268872144.92682,"derivatives_24h_percentage_change":11.859067639755,"last_updated":"2022-07-01T23:02:59.999Z","total_market_cap_yesterday":855766209836.4976,"total_volume_24h_yesterday":62212800415.98,"total_market_cap_yesterday_percentage_change":1.7115622162197326,"total_volume_24h_yesterday_percentage_change":12.961203112179447}},"last_updated":"2022-07-01T23:02:59.999Z"}}
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+
+<title>Please Wait... | Cloudflare</title>
+  
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
+<style>body{margin:0;padding:0}</style>
+
+
+<!--[if gte IE 10]><!-->
+<script>
+  if (!navigator.cookieEnabled) {
+    window.addEventListener('DOMContentLoaded', function () {
+      var cookieEl = document.getElementById('cookie-alert');
+      cookieEl.style.display = 'block';
+    })
+  }
+</script>
+<!--<![endif]-->
+
+
+    <script>
+    //<![CDATA[
+    (function(){
+      window._cf_chl_opt={
+        cvId: "2",
+        cType: "managed",
+        cNounce: "94303",
+        cRay: "72432dc8cd599e5e",
+        cHash: "75c2bf97ddf28d9",
+        cUPMDTk: "\/v1\/global-metrics\/quotes\/latest?__cf_chl_tk=pzqPGhUpZLWE.PfDcgNF1ImFq3iBH83oTpoS3OeH9nA-1656720841-0-gaNycGzNBf0",
+        cFPWv: "b",
+        cTTimeMs: "1000",
+        cLt: "n",
+        cRq: {
+          ru: "aHR0cHM6Ly9wcm8tYXBpLmNvaW5tYXJrZXRjYXAuY29tL3YxL2dsb2JhbC1tZXRyaWNzL3F1b3Rlcy9sYXRlc3Q=",
+          ra: "R28taHR0cC1jbGllbnQvMi4w",
+          rm: "R0VU",
+          d: "R+erruzLHTMlmhaarlAKSaK775Xk3oE0B1rXf81Y9R5DW+jS3o/JIxq+VbMzlx83TyL1B+kzdm4DtQyPFvV3dRqf8ec7XPB0Y8mqN7mwv/gUQtP83jIReDZuKyT8AD11MSZazVn28eIYwlSsceXqmHb6LSccLC9NmKkK4oQEP+qfk69vFwuaUv5IH/VM9+PBXUNDWhNpazFrdFzBmhsykrVBmjVhgt1jcB6BRF7rME7S7Yt0Ok+NN4ENqzhGDOzONzlUATVdC3KXyfHX28yR7vcIY+OLpGR+GnnR5uxbLeSylq24neEexcq5LvJzUdGy6C5h1hd+nztXcqLm0Jv4XQxYRR4y3XtYPgNuEJFJ015l+zNEy2vFATO2aA4a/IKHyw2QwCyY55ssBpseWlaSkszoGCly5Uqa2r7l8MTQrc6uaV/Vh3m+Rt1787Yi/mKaRmALplNV6FEWx30z9o/EQie72LadvmlDFiadWHCFNqAGoimqw3mir749wDHoF5b5oy29LZ67FgPxP8KZ4G0CJA4Jzep1jdMl5oCwH0oCz0+aXZJp2cA0J9S2uZnFNcm+9pgAd0J2mX/zemsJuAlY9SJjp+COvJGrPGMfH8PdkzE=",
+          t: "MTY1NjcyMDg0MS4wOTQwMDA=",
+          m: "xyP3uMGhi9l+VnqM6WBqCK8iGu9ElJy7yzEDFksEe8Y=",
+          i1: "HHTjma4eMffhuoaVVG4xHA==",
+          i2: "mZ/Zsa9If/YBKbxC4DhPyA==",
+          zh: "nrzM7ZnEb3jNq0hJ2IE7JcyVzdy79MJ/53h//WD30LI=",
+          uh: "AN+5vvENMpdOACvuRa1plLx7uNq9y3wYG+zurIv4jHM=",
+          hh: "9dAxZEjl0leB9or555hkBWKL0w0loSh5y7Ws8uH/xH4=",
+        }
+      };
+    }());
+    //]]>
+    </script>
+
+<style>
+  #cf-wrapper #spinner {width:69px; margin:  auto;}
+  #cf-wrapper #cf-please-wait{text-align:center}
+  .attribution {margin-top: 32px;}
+  .bubbles { background-color: #f58220; width:20px; height: 20px; margin:2px; border-radius:100%; display:inline-block; }
+  #cf-wrapper #challenge-form { padding-top:25px; padding-bottom:25px; }
+  #cf-hcaptcha-container { text-align:center;}
+  #cf-hcaptcha-container iframe { display: inline-block;}
+  @keyframes fader     { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
+  #cf-wrapper #cf-bubbles { width:69px; }
+  @-webkit-keyframes fader { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
+  #cf-bubbles > .bubbles { animation: fader 1.6s infinite;}
+  #cf-bubbles > .bubbles:nth-child(2) { animation-delay: .2s;}
+  #cf-bubbles > .bubbles:nth-child(3) { animation-delay: .4s;}
+</style>
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="cf-error-details-wrapper">
+      <div class="cf-wrapper cf-header cf-error-overview">
+      
+        <h1 data-translate="managed_challenge_headline">Please wait...</h1>
+        <h2 class="cf-subheadline"><span data-translate="managed_checking_msg">We are checking your browser...</span> pro-api.coinmarketcap.com</h2>
+      
+      </div>
+      
+      <div class="cf-section cf-highlight cf-captcha-container">
+        <div class="cf-wrapper">
+          <div class="cf-columns two">
+            <div class="cf-column">
+            
+              <div class="cf-highlight-inverse cf-form-stacked">
+                <form class="challenge-form managed-form" id="challenge-form" action="/v1/global-metrics/quotes/latest?__cf_chl_f_tk=pzqPGhUpZLWE.PfDcgNF1ImFq3iBH83oTpoS3OeH9nA-1656720841-0-gaNycGzNBf0" method="POST" enctype="application/x-www-form-urlencoded">
+    <div id='cf-please-wait'>
+      <div id='spinner'>
+        <div id="cf-bubbles">
+            <div class="bubbles"></div>
+            <div class="bubbles"></div>
+            <div class="bubbles"></div>
+        </div>
+      </div>
+      <p data-translate="please_wait" id="cf-spinner-please-wait">Please stand by, while we are checking your browser...</p>
+      <p data-translate="redirecting" id="cf-spinner-redirecting" style="display:none">Redirecting...</p>
+      </div>
+  <input type="hidden" name="md" value="9X.W9XWiEKAuaVHsT3gjRwAqfyas.lVwNJ6xxO__dIk-1656720841-0-AYiIh86htOpgYPZYtPd2CTs6ux8O82jMvI4ZGEAaV48pqX41qopzKybUY-j5nTRy6YKVqP1XaLoSeK4q1NTYBkTtjhl_PYu-3iDaRXBBb66TnXt8PESpZ5MQhw-Ih8cPntrKk1w8k4rN6rkJJ9YQd7fBsFSvw9e5IdeMYA8PbxYGLY5u7J8Zv9CNF-npCIlZrFpZcGt3WtwUH--X14oAG4bEOj5o5wdRQJtzO-vcuExq5UQiLB7OBkggqaS2sNHwbBUzjhimEltDkCQmcm1_Rsfa4L9ruTihq4GPILPd9R8rd8q8zlOM4SJfWEQStUPbz3fW6d9uG9w6SKLP57H0VbjAvI44r2MGgcE9EuHr4PJ9qe3gtxgXmaLDj8yoW6v6hi1W6xgRp456JoUaFELuelzcfj8AQ6h7588XvKRp2ZlOWBsldFs612dMl8ot08p_Cyc6CSOpMMLw6djpXcyJmh_suhryDGJYq5jxuNt4MFozueLJNksMn_XurZxMHC2f78-lSFrGBoPffcYJek_6xCu5wumNp9XPEr-EIV7VjBNT33QH8HEVhnEk00w4hvV5S030EeOqLqsBColf5hRSXk6rbplTPm623ze8ozVGG_-9vPr7g8bWvyOaMOQhFCeRctvylzbTLKjRWFHYPHzKly9x39SWO7sE3C0VCrtYh7vPkvspzoYdxa7bQbLtEbt4TRcjCAyQZXrz5OeA5w-9Hkv6DrkZNAgvakNxzC1G0tUO0om8dCTMknfUZji1U7jA_2bj1mB_4WWvDLYWOqu6A-32d89zmtB0eEu_ndNBuuO1K9dfUtvE9JgAwyEpYmagUKcC9cpN4AsLV-_HANJ64YLbEC6JlNu_2vakdQKT_-Oi" />
+  <input type="hidden" name="r" value="GraWdQhu6w1kW.zHXyQ0Rw_HbKDWlpdvHqpbBYTjRAs-1656720841-0-AfbH8lJC1xnIsH4Dvy5VqZIjMc7UH0ZGv/z0Lotgb5w6AR5DrIZxUXVDkqBz9BljH9lgQ7Tte3ZVMJQSiIYZDgSeKKU8qSEDglriTgb2xxbQwxVwHsglZeVTbk/TsmO8kIk2fZj3Fn3ArkyV7b0zlrF+7b7S1KoUQOAN6CvJJUZ4Kd2abKPZmjIS66vS/+Dpftw6Du5QZgF76/rfd1NE5UDIKW3C72I+wwuztymV6FwAaHcROdcn3fTfmKczVkDJJ3SwVYdOp2FevPR1QbUltg9o7kSblmWN/9TsHLPkyLpJfLRdHa+rt+FWQmdeYi5X3dm8U1WQ6LfEcHJVtzCaenHhlgmnIwi8tStzvwZZd8MiIDlT0FrHfubdmJqvM266dHqYeZCvC2trs+WvtsyH0c3bGtDvBTBKeLU3LJ8hTfggq3G8zYs0pMbfAhFGqYQz+bEPD1UVsIkLX07Z+xYvKyKevtMf9snaPLR1M3WO85ncdCv/4wfqP6cDAZ6j7Zt/2UktX1pQ6SOwmgkHEXVOdn4m0meoJPjWO/OGqiIy7e1LTYeQMKIwjO434rFGqflZcUscKMxybQnHapsAPqKhyLrzmASH/DWLIYzldbDGDNyWA6C7v+oyNVVBqFsTJamYY2SUVmLzW0NoBNTtokQkGuwaPkpVlHp7F93jLZ5WmaP7gys9OfsxmFn3AuA6c5vBnuc6nYlYdFMVV6uvbE1hBb9XlVMyVQBLM/3Z/4dXWmSQ90yEY0wpjvTCc5n5/rzsTpCAOnxBiylF7tJeQMSKA4Pk4kXQxT53EUuIO5uqw81j3Tea3Ko4D/+UBpAOjaVLSj1a+l/pKs54b4AqQcG0JW2S87wBtidQvr0tNoFYD03XrGC9TGgbR1UHRif0xMSpdyCBYsN3BmvWMWc753vYnOdAWzGao+Kpvpncxy8vB4gyWk0m2GdnVfJfE4rTa4swepjWjtjt/uWjfC836ex4yg7niQutpOgQ0cbDU6HfX/iZVJGGNuzD0EG+vFYNjO8toHmCu+TWCM11B5raZxltj8a2SEmgleJ6cEfNPWjgPbmJVqQk4oakHtvU9JYnkLKPPXKJCqcxAZa39i7uPW1doxWWnxvhqQviwCPLxF0MYAnsPRhG+urLyJhz0wWJPzhuU/SgHYD7CFEwlNRbW00DTLM1FLxrj3VbT+BDtMIpkTTIwP2ZKZhe9HqzlVn86wwlF0M7pyDRpJWyL3KWT8x+B6nw1NBp68xjc9vBquxBr1g6+zq3xFVbQJXoz2bV3WQHDdz6W2cLlXYS3TX/jJaS2CoHWpoJf+p5BRcl8VUzuKaX1rP3DKjIieRzlyj5gDlj24A95ZIeD5cyfToghIZeFYzTp1Y7/p17aC6uj5fxbVohon9f8z/jz/whbqoN9tHIArNGj2YYGqTbA5izfphbQClz31QBQGRTq+fkZBLlisGK/3F5+YoP463NUTwQzENH1Q==">
+  <input type="hidden" name="vc" value="792a941b1bf74c0d6da7540bb1ed95bc">
+  <noscript id="cf-captcha-bookmark" class="cf-captcha-info">
+  <h1 data-translate="turn_on_js" style="color:#bd2426;">Please turn JavaScript on and reload the page.</h1>
+  </noscript>
+    <div id="no-cookie-warning" class="cookie-warning" data-translate="turn_on_cookies" style="display:none">
+      <p data-translate="turn_on_cookies" style="color:#bd2426;">Please enable Cookies and reload the page.</p>
+    </div>
+  <script>
+  //<![CDATA[
+    var a = function() {try{return !!window.addEventListener} catch(e) {return !1} },
+      b = function(b, c) {a() ? document.addEventListener("DOMContentLoaded", b, c) : document.attachEvent("onreadystatechange", b)};
+      b(function(){
+        var cookiesEnabled=(navigator.cookieEnabled)? true : false;
+        if(!cookiesEnabled){
+          var q = document.getElementById('no-cookie-warning');q.style.display = 'block';
+        }
+      });
+  //]]>
+  </script>
+  <div id="trk_captcha_js" style="background-image:url('/cdn-cgi/images/trace/captcha/nojs/h/transparent.gif?ray=72432dc8cd599e5e')"></div>
+</form>
+  <script>
+    //<![CDATA[
+    (function(){
+        var isIE = /(MSIE|Trident\/|Edge\/)/i.test(window.navigator.userAgent);
+        var trkjs = isIE ? new Image() : document.createElement('img');
+        trkjs.setAttribute("src", "/cdn-cgi/images/trace/managed/js/transparent.gif?ray=72432dc8cd599e5e");
+        trkjs.id = "trk_managed_js";
+        trkjs.setAttribute("alt", "");
+        document.body.appendChild(trkjs);
+        var cpo=document.createElement('script');
+        cpo.type='text/javascript';
+        cpo.src="/cdn-cgi/challenge-platform/h/b/orchestrate/managed/v1?ray=72432dc8cd599e5e";
+        
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window._cf_chl_opt.cUPMDTk && window.history && window.history.replaceState) {
+          var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+          history.replaceState(null, null, "\/v1\/global-metrics\/quotes\/latest?__cf_chl_rt_tk=pzqPGhUpZLWE.PfDcgNF1ImFq3iBH83oTpoS3OeH9nA-1656720841-0-gaNycGzNBf0" + window._cf_chl_opt.cOgUHash);
+          cpo.onload = function() {
+            history.replaceState(null, null, ogU);
+          };
+        }
+        
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+    //]]>
+    </script>
+
+
+              </div>
+            </div>
+
+            <div class="cf-column">
+              <div class="cf-screenshot-container">
+              
+                <span class="cf-no-screenshot"></span>
+              
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="cf-section cf-wrapper">
+        <div class="cf-columns two">
+          <div class="cf-column">
+            <h2 data-translate="why_captcha_headline">Why do I have to complete a CAPTCHA?</h2>
+            
+            <p data-translate="why_captcha_detail">Completing the CAPTCHA proves you are a human and gives you temporary access to the web property.</p>
+          </div>
+
+          <div class="cf-column">
+            <h2 data-translate="resolve_captcha_headline">What can I do to prevent this in the future?</h2>
+            
+
+            <p data-translate="resolve_captcha_antivirus">If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure it is not infected with malware.</p>
+
+            <p data-translate="resolve_captcha_network">If you are at an office or shared network, you can ask the network administrator to run a scan across the network looking for misconfigured or infected devices.</p>
+            
+              
+            
+          </div>
+        </div>
+      </div>
+      
+
+      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">72432dc8cd599e5e</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+      Your IP:
+      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+      <span class="hidden" id="cf-footer-ip">20.245.117.13</span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+    </span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+</div><!-- /.error-footer -->
+
+
+    </div>
+  </div>
+
+  <script>
+  window._cf_translation = {};
+  
+  
+</script>
+
+
+</body>
+</html>
+
